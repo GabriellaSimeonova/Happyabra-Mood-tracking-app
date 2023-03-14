@@ -1,0 +1,21 @@
+{
+  "main.css": "/my-app/static/css/main.697bb570.chunk.css",
+  "main.js": "/my-app/static/js/main.6d930038.chunk.js",
+  "main.js.map": "/my-app/static/js/main.6d930038.chunk.js.map",
+  "runtime~main.js": "/my-app/static/js/runtime~main.32923a1a.js",
+  "runtime~main.js.map": "/my-app/static/js/runtime~main.32923a1a.js.map",
+  "static/js/2.28840448.chunk.js": "/my-app/static/js/2.28840448.chunk.js",
+  "static/js/2.28840448.chunk.js.map": "/my-app/static/js/2.28840448.chunk.js.map",
+  "static/js/3.57b001d4.chunk.js": "/my-app/static/js/3.57b001d4.chunk.js",
+  "static/js/3.57b001d4.chunk.js.map": "/my-app/static/js/3.57b001d4.chunk.js.map",
+  "index.html": "/my-app/index.html",
+  "precache-manifest.c149a74f41db4467c0a3008038135a68.js": "/my-app/precache-manifest.c149a74f41db4467c0a3008038135a68.js",
+  "service-worker.js": "/my-app/service-worker.js",
+  "static/css/main.697bb570.chunk.css.map": "/my-app/static/css/main.697bb570.chunk.css.map",
+  "static/media/Fashionista.jpeg": "/my-app/static/media/Fashionista.036c088e.jpeg",
+  "static/media/Jabi_San.jpg": "/my-app/static/media/Jabi_San.f9df6d62.jpg",
+  "static/media/Jabimodo.jpeg": "/my-app/static/media/Jabimodo.d56fd5cc.jpeg",
+  "static/media/arrow.png": "/my-app/static/media/arrow.92c60289.png",
+  "static/media/camera.png": "/my-app/static/media/camera.1989bf29.png",
+  "static/media/offline.png": "/my-app/static/media/offline.74920347.png"
+}
