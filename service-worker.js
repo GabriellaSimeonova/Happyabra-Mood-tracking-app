@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GabriellaSimeonova/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/precache-manifest.4751bca0638d3c2edb42298efc6cc9d6.js"
+  "/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/precache-manifest.5be10a62d21fdfba7ca8b3b2c3678c5b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/GabriellaSimeonova/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
