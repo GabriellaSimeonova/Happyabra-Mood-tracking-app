@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/precache-manifest.5be10a62d21fdfba7ca8b3b2c3678c5b.js"
+  "/Happyabra-Mood-tracking-app/index.html/precache-manifest.877c087ae37a5e4c5971747153713db3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Happyabra-Mood-tracking-app/blob/gh-pages/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/Happyabra-Mood-tracking-app/index.html/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
